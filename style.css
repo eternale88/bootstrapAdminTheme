@@ -99,6 +99,10 @@ button.navbar-toggle:focus {
   padding-top: 20px;
 }
 
+#header .small {
+  font-size: 20px;
+}
+
 /* Breadcrumb */
 .breadcrumb {
   background: #cccccc;
@@ -109,6 +113,10 @@ button.navbar-toggle:focus {
   color: #333333;
 }
 
+.breadcrumb li {
+  margin-right: 5px;
+}
+
 /* progress bars */
 .progress-bar {
   background: #333333;
@@ -117,6 +125,21 @@ button.navbar-toggle:focus {
 
 .dash-box {
   text-align: center;
+}
+/* Login form*/
+#login {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+/* Footer */
+
+#footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 30px;
+  margin-top: 30px;
 }
 /* Media Queries*/
 
