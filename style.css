@@ -14,7 +14,7 @@ body {
   margin-bottom: 0;
   border-radius: 0;
   min-height: 33px !important;
-  background-color: #e74c3c !important;
+  background-color: royalblue !important;
 }
 
 /* Navbar */
@@ -56,18 +56,18 @@ button.navbar-toggle:focus {
 .navbar .navbar-nav .nav-item.show .nav-link,
 .navbar .navbar-nav .nav-item.show .nav-link:hover,
 .navbar .navbar-nav .nav-item.show .nav-link:focus {
-  color: #ffbbbc !important;
-  background-color: #c0392b !important;
+  color: #e9d8d8 !important;
+  background-color: darkblue !important;
 }
 .navbar .navbar-toggle {
-  border-color: #c0392b !important;
+  border-color: darkblue !important;
 }
 .navbar .navbar-toggle:hover,
 .navbar .navbar-toggle:focus {
-  background-color: #c0392b !important;
+  background-color: darkblue !important;
 }
 .navbar .navbar-toggle .navbar-toggler-icon {
-  color: #ecf0f1 !important;
+  color: #e9d8d8 !important;
 }
 .navbar .navbar-collapse,
 .navbar .navbar-form {
@@ -82,7 +82,7 @@ button.navbar-toggle:focus {
 
 /* Custom*/
 .main-color-bg {
-  background-color: #e74c3c !important;
+  background-color: royalblue !important;
   border-color: #ecf0f1 !important;
   color: #fff;
 }
